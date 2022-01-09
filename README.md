@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="public/dashgo ..svg" width="350"/> 
+  <img src="public/logo.svg" width="1400"/> 
 </p>
 
 <p align="center">	
