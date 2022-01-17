@@ -40,7 +40,10 @@ This project was made using the follow technologies:
 * [NextJS](https://nextjs.org/)
 * [Axios](https://axios-http.com/)
 * [Apexcharts](https://apexcharts.com/)
-  
+* [React Hook Form](https://react-hook-form.com/)
+* [React Query](https://react-query.tanstack.com/)
+* [MirageJs](https://miragejs.com/)
+ 
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
