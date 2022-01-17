@@ -25,3 +25,30 @@
   </sub>
 </div>
   
+# 📌 Contents
+
+* [Technologies](#rocket-technologies) 
+* [Screenshots](#camera-screenshots) 
+* [License](#page_facing_up-license)
+  
+# :rocket: Technologies
+This project was made using the follow technologies:
+  
+* [ChakraUI](https://chakra-ui.com/)
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [NextJS](https://nextjs.org/)
+* [Axios](https://axios-http.com/)
+* [Apexcharts](https://apexcharts.com/)
+* [React Hook Form](https://react-hook-form.com/)
+* [React Query](https://react-query.tanstack.com/)
+* [Yup](https://github.com/jquense/yup)
+* [MirageJs](https://miragejs.com/)
+ 
+# :page_facing_up: License
+
+This project is under the [MIT license](./LICENSE).
+Made with 💖 by [Gustavo Assunção](https://www.linkedin.com/in/gustavo-gk/). 
+
+Thank you! 🌠
+  
