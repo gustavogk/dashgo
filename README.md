@@ -42,6 +42,7 @@ This project was made using the follow technologies:
 * [Apexcharts](https://apexcharts.com/)
 * [React Hook Form](https://react-hook-form.com/)
 * [React Query](https://react-query.tanstack.com/)
+* [Yup](https://github.com/jquense/yup)
 * [MirageJs](https://miragejs.com/)
  
 # :page_facing_up: License
