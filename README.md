@@ -44,7 +44,15 @@ This project was made using the follow technologies:
 * [React Query](https://react-query.tanstack.com/)
 * [Yup](https://github.com/jquense/yup)
 * [MirageJs](https://miragejs.com/)
- 
+
+# :camera: Screenshots
+  
+<div align="center">
+   <img src="./.github/images/homeDashgo.png" width="1200px">
+   <img src="./.github/images/newUserDashgo.png" width="1200px">
+   <img src="./.github/images/usersDashgo.png" width="1200px">
+</div>
+  
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
